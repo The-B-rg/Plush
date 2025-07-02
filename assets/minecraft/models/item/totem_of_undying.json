@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/totem_of_undying"
+  },
+  "overrides": 
+	[
+    { "predicate": { "custom_model_data": 837900}, "model": "tutorial/plush"},
+		{ "predicate": { "custom_model_data": 837901}, "model": "block/plushies/chicken_plushie"},
+    { "predicate": { "custom_model_data": 837902}, "model": "block/plushies/ender_dragon_plushie"},
+
+    
+    { "predicate": { "custom_model_data": 837903}, "model": "block/plushies/sheep/black_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837904}, "model": "block/plushies/sheep/blue_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837905}, "model": "block/plushies/sheep/brown_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837906}, "model": "block/plushies/sheep/cyan_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837907}, "model": "block/plushies/sheep/gray_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837908}, "model": "block/plushies/sheep/green_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837909}, "model": "block/plushies/sheep/light_blue_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837910}, "model": "block/plushies/sheep/light_gray_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837911}, "model": "block/plushies/sheep/lime_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837912}, "model": "block/plushies/sheep/magenta_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837913}, "model": "block/plushies/sheep/orange_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837914}, "model": "block/plushies/sheep/pink_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837915}, "model": "block/plushies/sheep/purple_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837916}, "model": "block/plushies/sheep/red_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837917}, "model": "block/plushies/sheep/white_sheep_plushie"},
+    { "predicate": { "custom_model_data": 837918}, "model": "block/plushies/sheep/yellow_sheep_plushie"},
+
+    { "predicate": { "custom_model_data": 837919}, "model": "block/plushies/cow_plushie"},
+    { "predicate": { "custom_model_data": 837920}, "model": "block/plushies/fox_plushie"},
+    { "predicate": { "custom_model_data": 837921}, "model": "block/plushies/ocelot_plushie"},
+    { "predicate": { "custom_model_data": 837922}, "model": "block/plushies/panda_plushie"},
+    { "predicate": { "custom_model_data": 837923}, "model": "block/plushies/pig_plushie"},
+    { "predicate": { "custom_model_data": 837924}, "model": "block/plushies/snow_fox_plushie"},
+    { "predicate": { "custom_model_data": 837925}, "model": "block/plushies/squid_plushie"},
+
+    { "predicate": { "custom_model_data": 837926}, "model": "tutorial/boss"}
+  ]
+}
