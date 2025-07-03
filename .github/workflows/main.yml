@@ -1,0 +1,21 @@
+name: Create and Upload Zip on Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Create artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Plush
+          path: |
+            **/*
+            !**/.git/**  # Exclude the .git folder
