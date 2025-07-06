@@ -35,6 +35,7 @@
     { "predicate": { "custom_model_data": 837924}, "model": "block/plushies/snow_fox_plushie"},
     { "predicate": { "custom_model_data": 837925}, "model": "block/plushies/squid_plushie"},
 
-    { "predicate": { "custom_model_data": 837926}, "model": "tutorial/boss"}
+    { "predicate": { "custom_model_data": 837926}, "model": "tutorial/boss"},
+    { "predicate": { "custom_model_data": 837927}, "model": "tutorial/dire"}
   ]
 }

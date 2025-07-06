@@ -1,6 +1,6 @@
 {
 	"parent": "tutorial/plush",
 	"textures": {
-		"0": "tutorial/boss"
+		"0": "tutorial/dire"
 	}
 }
