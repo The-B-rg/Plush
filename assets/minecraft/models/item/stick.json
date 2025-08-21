@@ -1,8 +1,8 @@
 {
-    "parent": "entity/generated",
-    "textures": {
-        "layer0": "item/elytra"
-    },
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
     "overrides": [
         { 
             "predicate": { 
